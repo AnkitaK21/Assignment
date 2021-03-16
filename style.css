@@ -1,0 +1,140 @@
+body {
+    overflow-x: hidden;
+  }
+
+  .logo{
+    margin-left: 10px;
+    left: 24px;
+    width: 137px;
+    height: 44px;
+    background: transparent url('images/Group 82.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  
+  .navbar {
+    top: 0px;
+  left: 2px;
+  width: auto;
+  height: 619px;
+  background: linear-gradient(0deg, #231F2033 0%, #000000 100%) 0% 0% no-repeat padding-box, url('images/Group 79.png');
+  opacity: 0.8;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+
+  .navbar-nav  li a{
+    text-align: right;
+    letter-spacing: 0.6px;
+    color: #B3B3B3;
+    font-size: 15px;
+
+  }
+  .nava:active{
+    color: white !important;
+  }
+  .nava:hover {
+    color: #FFFFFF !important;
+  }
+
+  h1{
+    padding-top: 10%;
+    left: 182px;
+    width: 916px;
+    height: 67px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 56px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 4px #999999BF;
+    opacity: 1;
+  }
+  .imgp{
+    padding-top: 10%;
+    left: 222px;
+    width: 836px;
+    height: 48px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 2px #444444BF;
+    opacity: 1;
+  }
+  .btn{
+    margin-top: 5%;
+    padding: 1% 2% 1% 2%;
+    border-radius: 25px;
+    background-color: #F16739;
+    color: #FFFFFF;
+    font-size: 18px;
+  }
+
+  .bene{
+    padding-top: 3%;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size: 40px;
+  }
+  .benep{
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 1;
+  }
+
+  .img1{
+    margin-top: 4%;
+  }
+
+  .benerw{
+    margin-top: 2%;
+  }
+  .img2{
+    size: 77px;
+  }
+  h4{
+    font-weight: bold;
+  }
+
+  .faci{
+    background: #333333 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding: 3%;
+  }
+  .facih{
+    color: #FFFFFF;
+    font-size: 40px;
+    
+  }
+  .facil{
+    background: #F16739 0% 0% no-repeat padding-box;
+    width: 102px;
+    height: 2px;
+    margin-left: 48%;
+  }
+  .facip{
+    color: #FFFFFF;
+    font-size: 16px;
+  }
+  .img3{
+    margin-top: 10%;
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-left: 10%;
+  }
+  .facir{
+    float: left;
+    margin-left: 5%;
+    margin-top: 10%;
+    letter-spacing: 0px;
+    color: #CCCCCC;
+    opacity: 1;
+  }
